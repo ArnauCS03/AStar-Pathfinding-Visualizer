@@ -28,7 +28,7 @@ This project aims to visualize the A* pathfinding algorithm in a terminal enviro
 
     `mainDefault` has a predefined maze
 
-    `mainCustom`  can read mazes from .txt files<br><br>
+    `mainCustom`  can read mazes from .txt files located in the folder mazes<br><br>
 
     You can create your own maze!
     1. Modify or create another file inside the `mazes` folder. Name it:  **maze**X  where X is a number.
