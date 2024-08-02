@@ -1,7 +1,7 @@
 # A* Pathfinding Visualizer
-A visualization of the algorithm in the terminal with colors using c++. Additionally, you can create your own maze.
+Visualization of the algorithm in the terminal with color output, implemented in C++. Providing an interactive and educational demonstration of the A* functionality.
 
-This project includes code from the original work by LukeProducts.
+This project includes code from the original work by [LukeProducts](https://github.com/LukeProducts).
 
 ---
 
